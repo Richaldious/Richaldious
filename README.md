@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Richaldious
+- 👋 Hi, I’m Richaldo Elias
 - 👀 I’m interested in Software Development focus on Big Data and Machine Learning
 - 🌱 I’m currently learning Machine Learning and Data Engineering
 - 💞️ I’m looking to collaborate on Airflow and all open data tools   
