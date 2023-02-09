@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Richaldo Elias
-- 👀 I’m interested in Software Development focus on Big Data and Machine Learning
-- 🌱 I’m currently learning Machine Learning and Data Engineering
-- 💞️ I’m looking to collaborate on Airflow and all open data tools   
+- 👀 I’m interested in Software Development with focus on Data Engineering and Data Science
 - 📫 How to reach me:
   - https://www.linkedin.com/in/richaldoelias/
   - https://twitter.com/Richaldious
